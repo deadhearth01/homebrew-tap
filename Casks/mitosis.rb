@@ -1,6 +1,6 @@
 cask "mitosis" do
-  version "0.1.1"
-  sha256 "30957fc54679be9495f9029e26b46a4067e87b60ab20e5d6d6fce88afa2c775e"
+  version "0.2.0"
+  sha256 "c67a180d04375d4fd44db50b52e8073119022241232b6940e8bb3f212f6d36f5"
 
   url "https://github.com/deadhearth01/Mitosis/releases/download/v#{version}/Mitosis-#{version}.zip"
   name "Mitosis"
